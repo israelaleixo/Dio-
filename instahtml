@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charser="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">              
+        <title>Instagram</title>
+        <link rel="stylesheet" href="style.css">     
+    </head>
+    <body>
+        <div class="instagram-geral">
+            <div class="instagram-phone">
+                <img src="phone.png" alt="celular">
+            </div>
+            <div class="instagram-continue">
+                <div class="group">
+                    <img src="logo-instagram.png" class="logo-instagram" alt="Logo Instagram">
+                    <div class="foto-perfil">
+                        <img src="Anthony.jpg" alt="Foto Perfil">
+                    </div>
+                    <a href="#" class="instagram-login">Continue como Anthony</a>
+                    <a href="#" class="instagram-logout">Sair da conta</a>                    
+                </div>
+                <div class="group">
+                    <p class="semconta">Não é Anthony?</p>
+                    <p class="semconta">
+                        <span class="link-blue">Alternar contas</span>
+                        ou
+                        <span class="link-blue">Inscreva-se</span>
+                    </p>
+                </div>
+                <div class="app">
+                    <p class="baixe-app">Baixe o aplicativo</p>
+                    <div class="download">
+                        <a href="#" class="app-download"><img src="apple-button.png" class="down" alt="apple"></a>
+                        
+                        <a href="#" class="app-downloads"><img src="googleplay-button.png" class="down" alt="android"></a>
+                    </div>            
+                </div>
+            </div>
+        </div>
+    </body>
+</html>    
